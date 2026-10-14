@@ -1,6 +1,6 @@
 Name:		python-dataclasses-json
 Version:	0.6.7
-Release:	1
+Release:	2
 Summary:	Easily serialize dataclasses to and from JSON
 License:	MIT
 Group:		Development/Python
